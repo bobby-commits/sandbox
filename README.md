@@ -1,3 +1,3 @@
 # sandbox
-A simple sandbox repository for learning and practicing.
+A simple sandbox repository for learning and practicing...
 
